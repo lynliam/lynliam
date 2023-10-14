@@ -1,2 +1,2 @@
 欢迎来到lynliam的github！！
-本仓库会持续分享一名菜狗的学习历程！
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
